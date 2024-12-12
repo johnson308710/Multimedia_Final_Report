@@ -41,3 +41,8 @@ Thinking 2
 
 #### 階段一：寫一個主程式並跑程式序列
 test.py從開始跑就在驗證時發生問題，代表是本身code的錯誤導致，需要再討論
+
+
+
+pip install pillow
+image.open後要記得關
